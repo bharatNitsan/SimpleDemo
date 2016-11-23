@@ -1,5 +1,7 @@
-@medai(mxa-width:767px){
+@media(max-width:767px){
 	body{
 		font-size: 12px;
+		line-height: normal;
+		color: #000;
 	}
 }

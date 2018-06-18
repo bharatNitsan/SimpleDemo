@@ -1,0 +1,7 @@
+@media(max-width:767px){
+	body{
+		font-size: 12px;
+		line-height: normal;
+		color: #000;
+	}
+}
